@@ -45,4 +45,3 @@ The identified **Indicators of Compromise (IoCs)** suggest the following escalat
 - Escalate the case to the **Incident Response Team**  
 - Proceed with **containment**, **forensics**, and **eradication**  
 - Submit findings to **compliance** for reporting and policy review
-- 
